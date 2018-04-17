@@ -1,0 +1,58 @@
+
+#services {
+	background-image: url(_images/services-bkg.jpg);
+	background-repeat: repeat; 
+	padding: 0px 20px 0px 20px;
+	margin-bottom: 50px;
+	.top-pad {
+		margin-top: 2em;
+	}
+	img {
+		width: 100%;
+		max-width: 900px;
+		margin: 30px auto 80px auto;
+		display: block;
+
+	}
+	a.meet-brooke {
+		display: block;
+		width: 150px;
+		text-decoration: none;
+		border-radius: 5px;
+		margin: 40px auto;
+		padding: 15px 20px;
+		text-align: center;
+		color: #fff;
+		background-color: rgba(64,189,206,0.8);
+		transition: all 0.3s ease-out;
+		&:hover {
+			background-color: rgba(11,111,124,0.9);
+		}
+	}
+}
+@media screen and (min-width: 681px) {
+	#services {
+		width: 96%;
+		max-width: 1100px;
+		margin: 0 auto;
+		text-align: center;
+		.services-provided {
+			> h1, ul {
+				text-align: left;
+			}
+			float: left;
+			width: 50%;
+		}
+		.treatment-areas {
+			> h1, ul {
+				text-align: left;
+			}
+			float: left;
+			width: 50%;
+			clear: right;
+		}
+		a.meet-brooke {
+			display: inline-block;
+		}
+	}
+}
