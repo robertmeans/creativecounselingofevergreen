@@ -1,6 +1,6 @@
 <div id="mobile-nav-content"  class="lg-gone">
 	<a href="index.php#top-of-page"><img class="nav-logo" src="_images/nav-logo.png"></a>
-	<span class="title-font">Brooke Harris, LLC</span>
+	<span class="title-font">Brooke Harris, LPC, RPT</span>
 	<span><i class="fas fa-mobile-alt"></i><a class="phone-font" href="tel:(720)%20504-7296">(720) 504-7296</a></span>
 </div>
 
@@ -24,7 +24,7 @@
 <div id="large-nav">
 	<ul>
 		<a class="lg-nav-logo" href="index.php#top-of-page"><img class="nav-logo" src="_images/nav-logo-lg.png"></a>
-		<p class="title-font"><span class="brooke-font">Brooke Harris, LLC</span> <br />
+		<p class="title-font"><span class="brooke-font">Brooke Harris, LPC, RPT</span> <br />
 		<i class="fas fa-mobile-alt"></i><a class="phone-font" href="tel:(720)%20504-7296">(720) 504-7296</a></p>
 		<li><a href="index.php#services" onclick="closeNav();">Services</a></li>
 		<li><a href="index.php#about" onclick="closeNav();">About</a></li>

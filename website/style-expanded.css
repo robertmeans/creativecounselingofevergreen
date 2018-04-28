@@ -115,7 +115,7 @@ table {
         align-items: center;
   }
   div#large-nav > ul > li:first-of-type {
-    margin-left: 30px;
+    margin-left: 20px;
   }
   div#large-nav > ul > li > a {
     display: -ms-flexbox;
@@ -143,10 +143,12 @@ table {
   div#large-nav > ul a.phone-font {
     color: #fff;
     text-decoration: none;
+    transition: all 0.3s ease;
   }
   div#large-nav > ul .brooke-font {
     font-family: 'Open Sans', sans-serif;
     font-size: 1.2em;
+    transition: all 0.3s ease;
   }
   div#large-nav > ul > p {
     margin-top: 0;
@@ -159,12 +161,21 @@ table {
     vertical-align: middle;
     border: 1px solid #b4bad1;
     border-radius: 3px;
-    margin-left: 30px;
+    margin: 0px 10px 0px 30px;
   }
   div#large-nav img.nav-logo {
     display: inline-block;
     float: left;
-    margin-right: 15px;
+    margin: 0px 10px;
+  }
+}
+@media screen and (max-width: 770px) {
+  div#large-nav > ul .brooke-font {
+    font-size: 1em;
+  }
+
+  div#large-nav > ul > li > a {
+    width: 100px;
   }
 }
 @media only screen and (max-width: 680px) {
@@ -272,7 +283,7 @@ table {
   }
   #mobile-nav-content span.title-font {
     display: inline-block;
-    font-size: 1.3em;
+    font-size: 1em;
   }
   #mobile-nav-content a.phone-font {
     display: inline-block;
@@ -390,15 +401,11 @@ table {
       align-items: center;
 }
 #hero .hero-logo {
-  background-color: rgba(0, 0, 0, 0.7);
-  width: 100%;
-  padding: 30px 0px;
   text-align: center;
 }
 #hero .hero-logo img {
-  width: 90%;
-  max-width: 550px;
-  z-index: 1;
+  width: 96%;
+  max-width: 750px;
 }
 #hero a.scroll-link {
   margin-top: 15px;
@@ -687,6 +694,9 @@ section#contact {
   padding: 0px;
   height: auto;
   line-height: 1em;
+  width: 96%;
+  max-width: 1200px;
+  margin: 0 auto;
 }
 section#contact ul {
   list-style-type: none;
@@ -705,7 +715,6 @@ section#contact div#contact-form {
   width: 80%;
   margin: 30px auto 180px auto;
   background-color: rgba(255, 255, 255, 0.8);
-  padding: 50px;
   box-sizing: border-box;
 }
 section#contact div#contact-form .left-side {
@@ -730,6 +739,10 @@ section#contact div#contact-form .left-side p,
 section#contact div#contact-form .right-side p {
   line-height: 1.5em;
   margin-top: 0;
+}
+section#contact div#contact-form .left-side form#contactForm,
+section#contact div#contact-form .right-side form#contactForm {
+  padding-top: 50px;
 }
 section#contact div#contact-form .left-side label,
 section#contact div#contact-form .right-side label {
@@ -773,6 +786,9 @@ section#contact div#contact-form .right-side input#send:hover {
         flex-direction: column;
     height: auto;
     padding: 50px 20px;
+  }
+  section#contact div#contact-form form#contactForm {
+    padding-top: 0px;
   }
   section#contact div#contact-form .left-side {
     margin-bottom: 20px;
@@ -908,12 +924,6 @@ ul ul {
   list-style: circle;
   margin-top: .5em;
 }
-ul ul li:first-of-type {
-  list-style: none;
-  margin-left: -1em;
-  font-weight: bold;
-  text-decoration: underline;
-}
 
 h1 {
   font-family: 'Bad Script', Calibri, sans-serif;
@@ -935,10 +945,12 @@ a.reg-anchor:hover {
   z-index: 85;
   position: fixed;
   bottom: 0px;
-  right: 30px;
+  left: 50%;
+  margin-left: -25px;
   text-align: center;
   background-color: rgba(64, 189, 206, 0.8);
-  padding: 10px 18px 10px 18px;
+  width: 60px;
+  padding: 12px 0px 10px 0px;
   color: #fff;
   text-decoration: none;
   border-top-left-radius: 8px;

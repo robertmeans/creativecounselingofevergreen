@@ -189,7 +189,7 @@
           <textarea required noresize name="comments" id="comments" tabindex="30"></textarea>
         </li>
         <li>
-           <div class="g-recaptcha" data-callback="recaptchaCallback" data-sitekey="6Ld7nFMUAAAAALOV37gFrDLRjknqoSvaOxfRaHwh"></div>
+           <!-- <div class="g-recaptcha" data-callback="recaptchaCallback" data-sitekey="6Ld7nFMUAAAAALOV37gFrDLRjknqoSvaOxfRaHwh"></div> -->
         </li>
         <li>
             <button id="confirm" disabled>Check Captcha above to enable Send</button>

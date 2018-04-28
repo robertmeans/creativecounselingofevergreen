@@ -2,8 +2,8 @@
 	<a class="about-links" href="#location">Location</a><a class="about-links" href="#hours">Hours</a><a class="about-links" href="#pricing">Pricing</a>
 
 	<img src="_images/Brooke-Harris.jpg">
-	<h1 class="bio-head">Brooke Harris, LLC</h1>
-	<p>My name is Brooke Harris, the owner of Creative Counseling of Evergreen. I am a licensed professional counselor (LPC) in the state of Colorado as well as a national certified counselor (NCC). I graduated with a M.A. in Counseling from Western New Mexico University.</p> 
+	<h1 class="bio-head">Brooke Harris, LPC, RPT</h1>
+	<p>My name is Brooke Harris, the owner of Creative Counseling of Evergreen. I am a licensed professional counselor (LPC) in the state of Colorado as well as a national certified counselor (NCC). I am proud to be a registered play therapist (RPT) with the Association for Play Therapy. I graduated with a M.A. in Counseling from Western New Mexico University.</p> 
 
 	<p>Although I have worked in different settings, geographical locations, and with
 	different ages and cultures; my passion has always been practicing play therapy.
@@ -22,7 +22,7 @@
 
 	<div id="location">
 		<h1>Office Location</h1>
-		<p>Creative Counseling of Evergreen is located inside the Center at Evergreen, at 2922 Evergreen Parkway, across from the beautiful Elk Meadow Open Space Park. It is a short, drive from 1-70, making it an easily accessible practice. Center at Evergreen consists of two buildings: Creative Counseling of Evergreen is inside the US Bank building. The office on the third floor, in Suite 325. There is a private waiting room that adjoins the therapy room with wireless internet, art supplies, puzzles and games. Our therapy room consists of a well-equipped play therapy space and sand tray area, as well as comfortable seating for talking sessions.</p>
+		<p>Creative Counseling of Evergreen is located inside the <a class="reg-anchor" href="http://www.centeratevergreen.com/" target="_blank">Center at Evergreen</a>, at 2922 Evergreen Parkway, across from the beautiful Elk Meadow Open Space Park. It is a short, drive from 1-70, making it an easily accessible practice. <a class="reg-anchor" href="http://www.centeratevergreen.com/" target="_blank">Center at Evergreen</a> consists of two buildings: Creative Counseling of Evergreen is inside the US Bank building. The office on the third floor, in Suite 325. There is a private waiting room that adjoins the therapy room with wireless internet, art supplies, puzzles and games. The therapy room consists of a well-equipped play therapy space and sand tray area, as well as comfortable seating for talking sessions.</p>
 		<p>&nbsp;</p>
 	</div>
 	<div id="hours">

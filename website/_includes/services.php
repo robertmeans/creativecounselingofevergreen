@@ -4,15 +4,16 @@
 		<ul>
 			<li>Play Therapy</a> (toddler through age 12)
 			<ul>
-				<li>Additional Resources</li>
+
 				<li><a class="reg-anchor" href="https://www.psychologytoday.com/us/blog/contemporary-psychoanalysis-in-action/201601/child-s-play-how-play-therapy-works" target="_blank">Child’s Play: How Play Therapy Works</a></li>
-				<li><a class="reg-anchor" href="http://www.a4pt.org/page/ParentsCornerHomePag">What is Play Therapy?</a></li>
-				<li><a class="reg-anchor" href="https://www.youtube.com/watch?v=_4ovwAdxCs0">YouTube: Play Therapy Works!</a></li>
+				<li><a class="reg-anchor" href="http://www.a4pt.org/page/ParentsCornerHomePag" target="_blank">What is Play Therapy?</a></li>
+				<li><a class="reg-anchor" href="https://www.youtube.com/watch?v=_4ovwAdxCs0" target="_blank">YouTube: Play Therapy Works!</a></li>
+				<li><a class="reg-anchor" href="http://www.a4pt.org/?page=ClarifyingUseofPT" target="_blank">Applying the Therapeutic Power of Play</a></li>
 			</ul>
 
 			</li>
 			<li>Parent and Child Play Therapy</li>
-			<li>Adolecent Counseling</li>
+			<li>Adolescent Counseling</li>
 			<li>Adult Counseling</li>
 			<li>Parenting Support</li>
 		</ul>
@@ -31,8 +32,8 @@
 			<li>Developmental challenges</li>
 			<li>Divorce</li>
 			<li>Family Changes</li>
-			<li>Grief/loss</li>
-			<li>New Baby/sibling conflict</li>
+			<li>Grief/Loss</li>
+			<li>New Baby/Sibling conflict</li>
 			<li>Self-Esteem</li>
 			<li>Stress Management</li>
 			<li>Trauma</li>

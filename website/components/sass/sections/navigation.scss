@@ -40,7 +40,7 @@
         justify-content: center;
         align-items: center;
         &:first-of-type {
-          margin-left: 30px;
+          margin-left: 20px;
         }
         > a {
           display: flex;
@@ -66,10 +66,12 @@
       a.phone-font {
         color: #fff;
         text-decoration: none;
+        transition: all 0.3s ease;
       }
       .brooke-font {
         font-family: 'Open Sans', sans-serif;
         font-size: 1.2em;
+        transition: all 0.3s ease;
       }
       > p {
         margin-top: 0;
@@ -84,16 +86,25 @@
         vertical-align: middle;
         border: 1px solid #b4bad1;
         border-radius: 3px;
-        margin-left: 30px;
+        margin: 0px 10px 0px 30px;
       }
     }
     img.nav-logo {
       display: inline-block;
       float: left;
-      margin-right: 15px;
+      margin: 0px 10px;
     }
   }
 }
+@media screen and ( max-width: 770px ) {
+  div#large-nav > ul .brooke-font {
+    font-size: 1em;
+  }
+  div#large-nav > ul > li > a {
+    width: 100px;
+  }
+}
+
 @media only screen and ( max-width: 680px ) {
   div#large-nav {
     display: none;
@@ -184,7 +195,7 @@
     padding-left: 95px;
     span.title-font {
       display: inline-block;
-      font-size: 1.3em;
+      font-size: 1em;
     }
     a.phone-font {
       display: inline-block;

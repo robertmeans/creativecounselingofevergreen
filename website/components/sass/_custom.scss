@@ -19,12 +19,12 @@ ul {
 ul ul {
   list-style: circle;
   margin-top: .5em;
-  li:first-of-type {
-    list-style: none;
-    margin-left: -1em;
-    font-weight: bold;
-    text-decoration: underline;
-  }
+  // li:first-of-type {
+  //   list-style: none;
+  //   margin-left: -1em;
+  //   font-weight: bold;
+  //   text-decoration: underline;
+  // }
 }
 h1 {
   font-family: 'Bad Script', Calibri, sans-serif;
@@ -45,10 +45,14 @@ a.reg-anchor {
   z-index: 85;
   position: fixed;
   bottom: 0px;
-  right: 30px;
+  left: 50%;
+  margin-left: -25px;
+  // right: 30px;
   text-align: center;
   background-color: rgba(64,189,206,0.8);
-  padding: 10px 18px 10px 18px;
+  // padding: 10px 18px 10px 18px;
+  width: 60px;
+  padding: 12px 0px 10px 0px;
   color: #fff;
   text-decoration: none;
   border-top-left-radius: 8px;

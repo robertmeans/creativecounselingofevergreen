@@ -133,6 +133,9 @@ section#contact {
   padding: 0px;
   height: auto;
   line-height: 1em;
+  width: 96%;
+  max-width: 1200px;
+  margin: 0 auto;
   ul {
     list-style-type: none;
     margin: 0;
@@ -149,7 +152,7 @@ section#contact {
     width: 80%;
     margin: 30px auto 180px auto;
     background-color: rgba(255,255,255,0.8);
-    padding: 50px;
+    // padding: 50px;
     // border: 1px solid #ccc;
     box-sizing: border-box;
     .left-side {
@@ -173,6 +176,9 @@ section#contact {
       p {
         line-height: 1.5em;
         margin-top: 0;
+      }
+      form#contactForm {
+        padding-top: 50px;
       }
       label {
         width: 100%;
@@ -212,6 +218,9 @@ section#contact {
       flex-direction: column;
       height: auto;
       padding: 50px 20px;
+      form#contactForm {
+        padding-top: 0px;
+      }
       .left-side {
         margin-bottom: 20px;
         padding-right: 0px;
