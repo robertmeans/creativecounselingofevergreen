@@ -2,7 +2,7 @@
 	<a class="about-links" href="#location">Location</a><a class="about-links" href="#hours">Hours</a><a class="about-links" href="#pricing">Pricing</a>
 
 	<img src="_images/Brooke-Harris.jpg">
-	<h1 class="bio-head">Brooke Harris, LPC, RPT</h1>
+	<h1 class="bio-head">Brooke Harris, MA, LPC, NCC, RPT</h1>
 	<p>My name is Brooke Harris, the owner of Creative Counseling of Evergreen. I am a licensed professional counselor (LPC) in the state of Colorado as well as a national certified counselor (NCC). I am proud to be a registered play therapist (RPT) with the Association for Play Therapy. I graduated with a M.A. in Counseling from Western New Mexico University.</p> 
 
 	<p>Although I have worked in different settings, geographical locations, and with
