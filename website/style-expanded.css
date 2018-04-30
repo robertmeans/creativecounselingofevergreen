@@ -535,6 +535,8 @@ table {
 #about .bio-head {
   text-align: center;
   margin-bottom: 1.5em;
+  line-height: 1.5em;
+  transition: all 0.3s ease;
 }
 #about #location > p {
   text-align: left;
@@ -570,6 +572,16 @@ table {
     max-width: 350px;
     float: left;
     margin: 0px 30px 10px 0px;
+  }
+}
+@media screen and (max-width: 450px) {
+  #about .bio-head {
+    font-size: 1.2em;
+  }
+
+  #about a.about-links {
+    width: 30%;
+    margin: 0px 2px 15px;
   }
 }
 div#contact-page {
