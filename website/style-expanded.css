@@ -532,6 +532,13 @@ table {
 #about a.about-links:hover {
   background-color: rgba(11, 111, 124, 0.9);
 }
+#about #about-col {
+  text-align: left;
+  column-count: 2;
+}
+#about #about-col h1 {
+  column-span: all;
+}
 #about .bio-head {
   text-align: center;
   margin-bottom: 1.5em;

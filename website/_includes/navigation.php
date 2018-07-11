@@ -1,5 +1,5 @@
 <div id="mobile-nav-content"  class="lg-gone">
-	<a href="index.php#top-of-page"><img class="nav-logo" src="_images/nav-logo.png"></a>
+	<a href="#top-of-page"><img class="nav-logo" src="_images/nav-logo.png"></a>
 	<span class="title-font">Brooke E. Harris</span>
 	<span><i class="fas fa-mobile-alt"></i><a class="phone-font" href="tel:(720)%20504-7296">(720) 504-7296</a></span>
 </div>
@@ -12,7 +12,7 @@
 	<div id="sidenav-wrapper">
 		<a href="javascript:void(0)" class="closebtn" onclick="closeNav();">&times;</a>
 		<ul>
-			<li><a href="index.php#top-of-page" onclick="closeNav();">Home</a></li>
+			<li><a href="index.php" onclick="closeNav();">Home</a></li>
 			<li><a href="index.php#services" onclick="closeNav();">Services</a></li>
 			<li><a href="index.php#about" onclick="closeNav();">About</a></li>
 			<li><a href="contact.php" onclick="closeNav();">Contact</a></li>

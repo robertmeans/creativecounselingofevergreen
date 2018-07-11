@@ -24,6 +24,13 @@
 			background-color: rgba(11,111,124,0.9);
 		} 
 	}
+	#about-col {
+		text-align: left;
+		column-count: 2;
+		h1 {
+			column-span: all;
+		}
+	}
 	.bio-head {
 		text-align: center;
 		margin-bottom: 1.5em;
