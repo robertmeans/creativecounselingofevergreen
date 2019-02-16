@@ -2,6 +2,7 @@
 	<div class="services-provided">
 		<h1>Services Provided</h1>
 		<ul>
+			<li>EMDR Therapy</li>
 			<li>Play Therapy</a> (toddler through age 12)
 			<ul>
 
@@ -32,6 +33,7 @@
 			<li>Developmental challenges</li>
 			<li>Divorce</li>
 			<li>Family Changes</li>
+			<li>Foster care and/or adoption</li>
 			<li>Grief/Loss</li>
 			<li>New Baby/Sibling conflict</li>
 			<li>Self-Esteem</li>
