@@ -2,21 +2,22 @@
 	<div class="services-provided">
 		<h1>Services Provided</h1>
 		<ul>
+		<li>Adolescent Counseling</li>
+			<li>Adult Counseling</li>
 			<li>EMDR Therapy</li>
-			<li>Play Therapy</a> (toddler through age 12)
+				<ul>
+					<li><a href="https://www.emdria.org/page/emdr_therapy" target="_blank">EMDR International Association</a></li>
+					<li><a href="https://youtu.be/EE-IjBTquAI" target="_blank">YouTube: What is EMDR?</a></li>
+				</ul>
+			<li>Parent and Child Play Therapy</li>
+			<li>Parenting Support</li>
+			<li>Play Therapy</a> (toddler through age 12)</li>
 			<ul>
-
+				<li><a class="reg-anchor" href="http://www.a4pt.org/?page=ClarifyingUseofPT" target="_blank">Applying the Therapeutic Power of Play</a></li>
 				<li><a class="reg-anchor" href="https://www.psychologytoday.com/us/blog/contemporary-psychoanalysis-in-action/201601/child-s-play-how-play-therapy-works" target="_blank">Child’s Play: How Play Therapy Works</a></li>
 				<li><a class="reg-anchor" href="http://www.a4pt.org/page/ParentsCornerHomePag" target="_blank">What is Play Therapy?</a></li>
 				<li><a class="reg-anchor" href="https://www.youtube.com/watch?v=_4ovwAdxCs0" target="_blank">YouTube: Play Therapy Works!</a></li>
-				<li><a class="reg-anchor" href="http://www.a4pt.org/?page=ClarifyingUseofPT" target="_blank">Applying the Therapeutic Power of Play</a></li>
 			</ul>
-
-			</li>
-			<li>Parent and Child Play Therapy</li>
-			<li>Adolescent Counseling</li>
-			<li>Adult Counseling</li>
-			<li>Parenting Support</li>
 		</ul>
 	</div>
 
