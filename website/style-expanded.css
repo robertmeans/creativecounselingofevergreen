@@ -389,7 +389,7 @@ table {
 #hero {
   height: 100vh;
   margin-bottom: 80px;
-  background: url(_images/desktop-background.jpg) no-repeat fixed;
+  background: url(_images/banner-background.jpg) no-repeat fixed;
   background-size: cover;
   display: -ms-flexbox;
   display: flex;
@@ -406,6 +406,17 @@ table {
 #hero .hero-logo img {
   width: 96%;
   max-width: 750px;
+}
+#hero h1 {
+  font-size: 2.5em;
+  font-weight: bold;
+  color: #2f5a5f;
+}
+#hero h2 {
+  font-size: 1.4em;
+  color: #2C808A;
+  text-transform: uppercase;
+  margin-bottom: 2em;
 }
 #hero a.scroll-link {
   margin-top: 15px;
@@ -446,6 +457,14 @@ table {
     margin-bottom: 80px;
     background: url(_images/mobile-banner-bkg-02.jpg) no-repeat fixed;
     background-attachment: scroll;
+  }
+}
+@media screen and (max-width: 590px) {
+  #hero h1 {
+    font-size: 1.8em;
+  }
+  #hero h2 {
+    font-size: 1em;
   }
 }
 #services {
