@@ -14,7 +14,7 @@
 
 	<div class="location">
 		<p><span class="sm-gone"><i class="fa fa-map-marker"></i></span><a class="loc" tabIndex="-1" href="https://goo.gl/maps/fpQW7bEisYr" target="_blank">2922 Evergreen Pkwy<span class="sm-gone">, </span><br class="lg-gone">Evergreen, CO 80439</a></p>
-		<p><span class="sm-gone"><i class="fa fa-phone-square"></i></span><a class="loc" href="tel:(720)%20504-7296">720.504.7296</a></p>
+		<p><span class="sm-gone"><i class="fa fa-phone-square"></i></span><a class="loc" href="tel:(720)%20775-0055">720.775.0055</a></p>
 	</div>
 
 </section><!-- #location -->
@@ -28,7 +28,7 @@
 			<p>Suite 325</p>
 			<p>Evergreen, CO 80439</p>
 			<p>&nbsp;</p>
-			<p>Phone: 720.504.7296</p>
+			<p>Phone: 720.775.0055</p>
 			<!-- <p>Fax: 303.973.9358</p> -->
 		</div>
 		<div class="right-side">

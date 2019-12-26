@@ -41,7 +41,7 @@
         $captcha = $_POST['g-recaptcha-response'];
     }
 
-    $my_email = "brookeharris.lpc@gmail.com";
+    $my_email = "brookeharris@creativecounselingofevergreen.com";
     // for testing
     // $my_email = "robert@robertmeans.com";
 
